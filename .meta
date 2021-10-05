@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "ethereum": "https://github.com/utkusarioglu/demeter-ethereum.git",
+    "webapp": "https://github.com/utkusarioglu/demeter-webapp.git",
+    "api-specs": "https://github.com/utkusarioglu/demeter-api-specs.git",
+    "gateway": "https://github.com/utkusarioglu/demeter-gateway.git",
+    "auth": "https://github.com/utkusarioglu/demeter-auth.git",
+    "auth-db": "https://github.com/utkusarioglu/demeter-auth-db.git",
+    "project": "https://github.com/utkusarioglu/demeter-project.git"
+  }
+}
