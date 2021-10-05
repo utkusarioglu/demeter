@@ -1,0 +1,12 @@
+{
+  "name": "demeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/utkusarioglu/demeter.git",
+  "author": "Utku Sarioglu <utkusarioglu@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "meta": "^2.2.25"
+  }
+}
