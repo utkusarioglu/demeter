@@ -1,15 +1,13 @@
 {
-	"name": "demeter",
-	"dockerComposeFile": [
-		"../docker-compose.dev.yml",
-		"docker-compose.yml"
-	],
-	"service": "meta",
-	"workspaceFolder": "/workspace",
-	"settings": {
+  "name": "demeter",
+  "dockerComposeFile": ["../docker-compose.dev.yml", "docker-compose.yml"],
+  "service": "meta",
+  "workspaceFolder": "/workspace",
+  "settings": {
     "workbench.colorCustomizations": {
-      "activityBar.background": "#962"
+      "activityBar.background": "#000",
+      "activityBar.foreground": "#fff"
     }
   },
-	"extensions": []
+  "extensions": []
 }
